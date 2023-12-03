@@ -1,10 +1,10 @@
-### MEDU App Policy
+# MEDU App Policy
 
 Bienvenido a MEDU, le pedimos lea los siguientes términos y condiciones de uso que contienen información referente a las obligaciones, derechos y soluciones para el caso de controversias. 
 Al acceder o utilizar el sitio https://meduprotection.com/ en adelante el “Sitio Web”, propiedad de Bioprotección Sustentable S.A. de C.V. (“MEDU”), con domicilio ubicado en la Ciudad de México, el Usuario está aceptado los Términos y Condiciones de Uso contenidos en este Contrato. En caso de no aceptar en forma absoluta y completa los Términos y Condiciones de este Contrato, el Usuario no podrá utilizar el Sitio Web.
 Si el Usuario no cumple con lo establecido en los Términos y Condiciones de Uso, MEDU podrá cancelar su uso, así como excluir al Usuario de operaciones futuras y/o tomar las acciones legales correspondientes con la finalidad de salvaguardar sus intereses.
 
-# Definiciones
+### Definiciones
 Los términos que aparezcan con la primera letra en mayúscula, dentro del presente Aviso – en plural o singular – tendrán los significados que a continuación se les asignan:
 Usuario: Persona física que hace uso del Sitio Web de MEDU.
 Datos Personales: Cualquier información concerniente a una persona física identificada o identificable.
@@ -36,7 +36,7 @@ El Usuario sólo podrá imprimir, exportar y/o copiar cualquier información con
 La reimpresión, republicación, distribución, asignación, sublicencia, venta, reproducción electrónica o por cualquier otro medio de cualquier información, documento o gráfico de o que aparezca en el Sitio Web en todo o en parte, para cualquier uso distinto al personal no comercial le está expresamente prohibido al Usuario, a menos que MEDU o sus respectivos titulares le haya otorgado su autorización previamente y por escrito.
 El Usuario es el único responsable de las actividades que se lleven a cabo dentro de su perfil y de utilizar sus datos de acceso y contraseña en las diferentes plataformas que MEDU pone a disposición del Usuario. Si el Usuario encuentra cualquier uso no autorizado de sus datos de acceso, de su perfil, o cualquier otra violación a la seguridad, deberá de contactar a MEDU, en el correo [**]. El Usuario es el único responsable de mantener la confidencialidad sobre sus datos de acceso y por tanto será el único responsable sobre los daños y perjuicios que su mal uso pudieran causarle.
 El Usuario manifiesta que se obliga frente a MEDU y a terceros, a compartir información veraz, correcta, completa, actualizada, sin errores y respecto de la cual se encuentra autorizado a compartirla, ya que la misma es necesaria para la prestación de los Servicios provistos por MEDU.
-# Promociones.
+### Promociones.
 Las Promociones en su caso que sean ofertadas en el Sitio Web, tendrán términos y condiciones específicos, y los Usuarios que se encuentren interesados en participar serán responsables en todo momento de leer y aceptar dichos términos y condiciones.
 Información contenida en el Sitio Web.
 El Usuario reconoce y acepta que la información publicada o contenida en el Sitio Web, será claramente identificada de forma tal que se reconozca que la misma proviene de MEDU.
@@ -61,7 +61,7 @@ De la actualización o falta de actualización de la información.
 Cualquier otro aspecto o característica de la información contenida o publicada en el Sitio Web o a través de las ligas que eventualmente se incluyan en las mismas.
 De la calidad o la falta de esta, de los productos y/o Servicios entregados por MEDU, cuya responsabilidad corresponde a los respectivos proveedores que realizaron la venta de dichos productos y/o Servicios.
 
-# Modificaciones a el Sitio Web y al Contrato
+### Modificaciones a el Sitio Web y al Contrato
 MEDU podrá en cualquier momento y cuando lo considere conveniente, sin necesidad de aviso al Usuario, realizar correcciones, adiciones, mejoras o modificaciones al contenido, presentación, información, servicios, áreas, bases de datos y demás elementos del Sitio Web, sin que ello de lugar ni derecho a ninguna reclamación o indemnización, ni que lo mismo implique reconocimiento de responsabilidad alguna a favor del Usuario.
 MEDU se reserva el derecho de modificar los términos y condiciones de uso de este Contrato en cualquier tiempo, siendo efectivas dichas modificaciones de forma inmediata;
 Por la notificación al Usuario sobre dichas modificaciones. El Usuario está de acuerdo en revisar este Contrato periódicamente a fin de estar al tanto de dichas modificaciones. No obstante, lo anterior, cada ocasión que el Usuario haga uso del Sitio Web, se considerará como aceptación absoluta a las modificaciones del Contrato.
@@ -78,12 +78,12 @@ Descontinuar o dejar de publicar definitivamente en el Sitio Web sin responsabil
 Notificaciones distintas a derechos de autor;
 Cualquier notificación que el Usuario desee enviar a MEDU en virtud del presente Contrato, deberá ser enviada vía correo electrónico a: [**]
 
-# Subsistencia
+### Subsistencia
 Estos términos y condiciones de uso, así como los Términos Adicionales constituyen el acuerdo íntegro entre las partes, y sustituye cualquier otro acuerdo o Convenio celebrado con anterioridad. Cualquier cláusula o provisión del presente Contrato, así como de los Términos Adicionales, legalmente declarada inválida, será eliminada o modificada, a elección de MEDU, a fin de corregir su vicio o defecto. Sin embargo, el resto de las cláusulas o provisiones mantendrán su fuerza, obligatoriedad y validez.
 No renuncia de derechos
 La inactividad por parte de MEDU, sus Proveedores, Afiliados y/o Aliados Comerciales al ejercicio de cualquier derecho o acción derivados del presente Contrato, en ningún momento deberá interpretarse como renuncia a dichos derechos o acciones.
 Legislación aplicable y jurisdicción
 Las partes acuerdan que todas las controversias o reclamaciones que se deriven de este Contrato, incluyendo la validez, intención, interpretación, realización o su cumplimiento, se someten voluntariamente a las leyes de México y a la jurisdicción y competencia de los Tribunales de la Ciudad de México, renunciando expresamente a cualquier fuero que les pudiera corresponder en virtud de su domicilio presente o futuro.
 
-# Contact Information
+### Contact Information
 For any questions or concerns regarding the privacy policy, please send us an email to **developer@meduprotection.com**.
