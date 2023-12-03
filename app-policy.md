@@ -1,4 +1,4 @@
-## MEDU App Policy
+### MEDU App Policy
 
 Bienvenido a MEDU, le pedimos lea los siguientes términos y condiciones de uso que contienen información referente a las obligaciones, derechos y soluciones para el caso de controversias. 
 Al acceder o utilizar el sitio https://meduprotection.com/ en adelante el “Sitio Web”, propiedad de Bioprotección Sustentable S.A. de C.V. (“MEDU”), con domicilio ubicado en la Ciudad de México, el Usuario está aceptado los Términos y Condiciones de Uso contenidos en este Contrato. En caso de no aceptar en forma absoluta y completa los Términos y Condiciones de este Contrato, el Usuario no podrá utilizar el Sitio Web.
